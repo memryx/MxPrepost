@@ -1,0 +1,6 @@
+[submodule "extern/pybind11"]
+	path = extern/pybind11
+	url = https://github.com/pybind/pybind11
+[submodule "extern/MX_API"]
+	path = extern/MX_API
+	url = git@github.com:memryx/MX_API.git
